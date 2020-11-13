@@ -14,6 +14,8 @@ Wait
 - [Go Modules with Private GIT Repository](https://medium.com/swlh/go-modules-with-private-git-repository-3940b6835727?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=genslab)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **genslab/genslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
