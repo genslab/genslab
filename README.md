@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Gens
+borrowed from Latin gent-, gens literally, "group of the same ancestry, people, nation," going back to Indo-European *ǵenh1-ti- "offspring," derivative of *ǵenh1- "engender, be born"
