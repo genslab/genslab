@@ -7,11 +7,11 @@ Wait
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance Comparison on Spring Rest vs GRPC Unary and Stream processing](https://medium.com/swlh/performance-comparison-on-spring-rest-vs-grpc-unary-and-stream-processing-4ea032777051?source=rss-730530feb059------2)
 - [Redis Master Slave Configuration and Tested in Spring Boot](https://medium.com/swlh/redis-master-slave-configuration-and-tested-in-spring-boot-3a68e7314b90?source=rss-730530feb059------2)
 - [Event Driven Architecture With Redis Streams Using Spring Boot](https://medium.com/swlh/event-driven-architecture-with-redis-streams-using-spring-boot-a81a1c9a4cde?source=rss-730530feb059------2)
 - [Spring Scheduler in multi node environment](https://medium.com/swlh/spring-scheduler-in-multi-node-environment-49814e031e7c?source=rss-730530feb059------2)
 - [Create Awesome Git readMe Profile](https://medium.com/swlh/create-awesome-git-readme-profile-84efa0bcda3b?source=rss-730530feb059------2)
-- [Performance Optimisation for Wildcards Search in Postgres (Trigram Index)](https://medium.com/swlh/performance-optimisation-for-wildcards-search-in-postgres-trigram-index-80df0b1f49c7?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=genslab)](https://github.com/anuraghazra/github-readme-stats)
